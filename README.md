@@ -1,4 +1,4 @@
-![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://github.com/SteveChen0810/SteveChen0810/assets/132761249/b626cc40-1b3b-4836-81d8-8aad9e1e4b66)
+![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://github.com/SteveChen0810/SteveChen0810/blob/main/stevechen_banner.png)
 
 <div align="center">
   <img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/divider1.png" alt="divider"/>
