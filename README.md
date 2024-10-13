@@ -1,4 +1,4 @@
-![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://github.com/devnight0913/devnight0913/blob/main/welcome.png)
+![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://www.canva.com/design/DAGTbvkTwCU/XuIl2u98eG1z3ntPuiTWYA/edit?utm_content=DAGTbvkTwCU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <div align="center">
   <img src="https://github.com/devnight0913/devnight0913/blob/main/divider1.png" alt="divider"/>
