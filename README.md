@@ -1,10 +1,10 @@
-![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://github.com/SteveChen0810/SteveChen0810/blob/main/stevechen_banner.png)
+![Black Minimalist Motivation Quote LinkedIn Banner (1)](https://github.com/devnight0913/devnight0913/blob/main/welcome.png)
 
 <div align="center">
-  <img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/devnight0913/devnight0913/blob/main/divider1.png" alt="divider"/>
 </div>
 
-<h3 align="center"><img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/code.gif" height="20"/> My skill sets</h3>
+<h3 align="center"><img src="https://github.com/devnight0913/devnight0913/blob/main/code.gif" height="20"/> My skill sets</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -62,21 +62,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/devnight0913/devnight0913/blob/main/divider2.png" alt="divider"/>
 </div> 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/devnight0913/devnight0913/blob/main/divider2.png" alt="divider"/>
 </div>    
 <div align="center">
-  <img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/portfolio.png" alt="Portfolio"/>
+  <img src="https://github.com/devnight0913/devnight0913/blob/main/portfolio.png" alt="Portfolio"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/SteveChen0810/SteveChen0810/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/devnight0913/devnight0913/blob/main/divider1.png" alt="divider"/>
 </div>
 
 <p align = "center">
